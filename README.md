@@ -1,2 +1,3 @@
 # hello-world
-first prog on github
+hii
+this is my first prog on github
